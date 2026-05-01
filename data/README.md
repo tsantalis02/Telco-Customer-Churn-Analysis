@@ -1,4 +1,4 @@
-**Dataset Walkthrough** 
+# Dataset Walkthrough 
 
 Each row represents a customer, each column contains customer’s attributes described below:
     
